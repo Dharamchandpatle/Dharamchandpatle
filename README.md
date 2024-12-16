@@ -1,10 +1,13 @@
 - 👋 Hi, I’m @Dharamchandpatle
 - 👀 I’m interested in Computer Science & Engineering Fields 
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently :- learning Core JAVA + DSA 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.linkedin.com/in/dharamchand-fullstackdeveloper/
+- 📫 How to reach me
+-  https://www.linkedin.com/in/dharamchand-fullstackdeveloper/
+-  https://dharamchandpatle-portfolio.vercel.app/
 - 😄 Pronouns: Dharamchand Patle 
 - ⚡ Fun fact: Coding 😘
+- 👨‍💻 All of my Information and Social medial handles  are available at
 
 <!---
 Dharamchandpatle/Dharamchandpatle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
