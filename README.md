@@ -7,7 +7,8 @@
 -  https://dharamchandpatle-portfolio.vercel.app/
 - 😄 Pronouns: Dharamchand Patle 
 - ⚡ Fun fact: Coding 😘
-- 👨‍💻 All of my Information and Social medial handles  are available at
+- 👨‍💻 All of my Information and Social medial handles  are available at : https://linktr.ee/Dharamchand__Patle
+- Youtube Channel : https://www.youtube.com/@DharamsCodeMystery7
 
 <!---
 Dharamchandpatle/Dharamchandpatle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
