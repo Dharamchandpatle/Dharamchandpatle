@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Dharamchandpatle
-- 👀 I’m interested in Computer Science & Engineering Fields 
+- 👀 I’m interested in Computer Science & Engineering Fields | Institute of Engineering and Technology, DAVV
+College in Madhya Pradesh 📍 | B.E. |
 - 🌱 I’m currently :- learning Core JAVA + DSA 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
