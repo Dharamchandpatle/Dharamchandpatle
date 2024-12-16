@@ -10,6 +10,8 @@ College in Madhya Pradesh 📍 | B.E. |
 - ⚡ Fun fact: Coding 😘
 - 👨‍💻 All of my Information and Social medial handles  are available at : https://linktr.ee/Dharamchand__Patle
 - Youtube Channel : https://www.youtube.com/@DharamsCodeMystery7
+![Dharamchand](https://github.com/user-attachments/assets/8975b5d9-a378-432e-bee6-4f43325b748e)
+
 
 <!---
 Dharamchandpatle/Dharamchandpatle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
