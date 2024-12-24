@@ -3,7 +3,7 @@
 <hr>
 <p> </p>
 <h3 align="left">Hi 👋, I'm Dharamchand Patle
-I’m pursuing a Bachelor’s in Computer Science at IET DAVV, Indore. With a completed diploma in engineering, I specialize as a MERN Stack Developer with expertise in full-stack development . I’m passionate about web development, problem-solving, and creating innovative, scalable solutions in agile environments.</h3>
+I’m pursuing a Bachelor’s in Computer Science at IET DAVV, Indore 📍. With a completed diploma in engineering, I specialize as a MERN Stack Developer with expertise in full-stack development 🧑‍💻 . I’m passionate about web development, problem-solving, and creating innovative, scalable solutions in agile environments.</h3>
  
 <hr>
 <p> </p>
