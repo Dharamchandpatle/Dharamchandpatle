@@ -29,3 +29,6 @@ I’m pursuing a Bachelor’s in Computer Science at IET DAVV, Indore. With a co
     <li>
 <p>👨‍💻 All of my Information and Social medial handles are available at : <a href="https://linktr.ee/Dharamchand__Patle "> Social Media 🖇️</a></p>
 </ul>
+<hr>
+<h3>Statistical Data :-</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&amp;show_icons=true&amp;locale=en&amp;bg_color=0d1117&amp;text_color=ffffff&amp;layout=compact" alt="adam-pw" bg_color="
