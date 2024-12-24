@@ -22,6 +22,10 @@ I’m pursuing a Bachelor’s in Computer Science at IET DAVV, Indore. With a co
 </li>
 <li>
 <p>👨‍💻 All of my projects are available at : <a href="https://dharamchandpatle-portfolio.vercel.app/ "> Dharamchand Patle 🚀</a></p>
+<li>
 <p>🎥 I am a technical content creator : <a href="https://www.youtube.com/@DharamsCodeMystery7">Dharam's Code Mystery 7 </a></p>
+  <li>
 <p>📄 Know about my experiences : <a href="https://drive.google.com/file/d/1S5KFbG2woWy5aHpYGdHNozkAWtM6qTXs/view"> Resume 📄</a></p>
+    <li>
 <p>👨‍💻 All of my Information and Social medial handles are available at : <a href="https://linktr.ee/Dharamchand__Patle "> Social Media 🖇️</a></p>
+</ul>
