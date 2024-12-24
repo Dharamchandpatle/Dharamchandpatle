@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dharamchand Patle </h1>
-//<img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="berkeli header image">
+
 <hr>
 <p> </p>
 <h3 align="left">Hi 👋, I'm Dharamchand Patle
