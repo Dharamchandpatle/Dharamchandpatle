@@ -7,7 +7,7 @@ I’m pursuing a Bachelor’s in Computer Science at IET DAVV, Indore 📍. With
 <p align="center">I love creating new things ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
 <p align="center">
-<a href = ""> </a>
+<a href = "https://www.youtube.com/@DharamsCodeMystery7"> <img src="https://img.shields.io/badge/YouTube-000?logo=vercel&logoColor=red&style=for-the-badge" style="vertical-align:center" /> </a>
  <a href="https://dharamchandpatle-portfolio.vercel.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://x.com/dharamchan1070" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/dharamchand-fullstackdeveloper/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
