@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm Dharamchand Patle </h1>
 
 <hr>
-<p> </p>
-<h3 align="left">Hi 👋, I'm Dharamchand Patle
-I’m pursuing a Bachelor’s in Computer Science at IET DAVV, Indore 📍. With a completed diploma in engineering, I specialize as a MERN Stack Developer with expertise in full-stack development 🧑‍💻 . I’m passionate about web development, problem-solving, and creating innovative, scalable solutions in agile environments.</h3>
+
+<h4 align="left">Hi 👋, I'm Dharamchand Patle
+I’m pursuing a Bachelor’s in Computer Science at IET DAVV, Indore 📍. With a completed diploma in engineering, I specialize as a MERN Stack Developer with expertise in full-stack development 🧑‍💻 . I’m passionate about web development, problem-solving, and creating innovative, scalable solutions in agile environments.</h4>
+<p align="center">I love creating new things ⚡</p>
+<p align="center">Turning imagination into reality 🚀</p>
+<p align="center">
+<a href = ""> </a>
+ <a href="https://dharamchandpatle-portfolio.vercel.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://x.com/dharamchan1070" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.linkedin.com/in/dharamchand-fullstackdeveloper/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.instagram.com/dharamcodemystery7/" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
+
  
 <hr>
 <p> </p>
