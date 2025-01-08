@@ -7,14 +7,13 @@ I’m pursuing a Bachelor’s in Computer Science at IET DAVV, Indore 📍. With
 <p align="center">I love creating new things ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
 <p align="center">
-<a href = "https://www.youtube.com/@DharamsCodeMystery7"> <img src="https://img.shields.io/badge/YouTube-000?logo=vercel&logoColor=red&style=for-the-badge" style="vertical-align:center" /> </a>
+<a href="https://www.youtube.com/@DharamsCodeMystery7"><img src="https://img.shields.io/badge/YouTube-000?logo=youtube&logoColor=red&style=for-the-badge" style="vertical-align:middle" /> 
+
  <a href="https://dharamchandpatle-portfolio.vercel.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://x.com/dharamchan1070" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/dharamchand-fullstackdeveloper/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.instagram.com/dharamcodemystery7/" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
 
-
- 
 <hr>
 <p> </p>
 <ul>
@@ -41,15 +40,16 @@ I’m pursuing a Bachelor’s in Computer Science at IET DAVV, Indore 📍. With
 </ul>
 <hr>
 
-
 #### JS Framework/Library
 ![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 
 #### CSS Framework/Library/Pre-processors
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
+![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3)
 
 #### Design/Visual Tools
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
@@ -57,6 +57,7 @@ I’m pursuing a Bachelor’s in Computer Science at IET DAVV, Indore 📍. With
 
 #### Database/State
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
+![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=django)
 
 #### Backend
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
@@ -69,6 +70,11 @@ I’m pursuing a Bachelor’s in Computer Science at IET DAVV, Indore 📍. With
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
+![Render](https://img.shields.io/badge/-Render-000?style=for-the-badge&logo=render)
+
+#### GenAI Tools
+![Langflow](https://img.shields.io/badge/-Langflow-000?style=for-the-badge&logo=openai)
+![DataStax](https://img.shields.io/badge/-DataStax-000?style=for-the-badge&logo=datastax)
 
 #### CI/CD
 ![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
@@ -81,6 +87,13 @@ I’m pursuing a Bachelor’s in Computer Science at IET DAVV, Indore 📍. With
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
+#### IDEs
+![Eclipse](https://img.shields.io/badge/-Eclipse-000?style=for-the-badge&logo=eclipse)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?style=for-the-badge&logo=visualstudiocode)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000?style=for-the-badge&logo=intellijidea)
+![Anaconda](https://img.shields.io/badge/-Anaconda-000?style=for-the-badge&logo=anaconda)
+![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=arduino)
+![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=postman)
 
 ## Current GitHub Stats 📊
 ![Stats](https://github-readme-stats.vercel.app/api?username=dharamchandpatle&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
@@ -92,4 +105,3 @@ I’m pursuing a Bachelor’s in Computer Science at IET DAVV, Indore 📍. With
 <p align="center">
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
-
