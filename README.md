@@ -10,7 +10,7 @@ I’m pursuing a Bachelor’s in Computer Science at IET DAVV, Indore 📍. With
 <a href = "https://www.youtube.com/@DharamsCodeMystery7"> <img src="https://img.shields.io/badge/YouTube-000?logo=youtube&logoColor=red&style=for-the-badge" style="vertical-align:center" /> </a>
  <a href="https://dharamchandpatle-portfolio.vercel.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://x.com/dharamchan1070" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://www.linkedin.com/in/dharamchand-fullstackdeveloper/" target="_blank"> <img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.linkedin.com/in/dharamchand-fullstackdeveloper/" target="_blank">  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge"  style="vertical-align:center" /></a>
 <a href="https://www.instagram.com/dharamcodemystery7/" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
 
 <hr>
