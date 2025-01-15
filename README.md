@@ -50,6 +50,10 @@ I’m pursuing a Bachelor’s in Computer Science at IET DAVV, Indore 📍. With
 ![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
 ![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3)
 
+#### GenAI Agent Tools
+![Langflow](https://img.shields.io/badge/-Langflow-000?style=for-the-badge&logo=openai)
+![DataStax](https://img.shields.io/badge/-DataStax-000?style=for-the-badge&logo=datastax)
+
 #### Design/Visual Tools
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
@@ -70,10 +74,6 @@ I’m pursuing a Bachelor’s in Computer Science at IET DAVV, Indore 📍. With
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
 ![Render](https://img.shields.io/badge/-Render-000?style=for-the-badge&logo=render)
-
-#### GenAI Agent Tools
-![Langflow](https://img.shields.io/badge/-Langflow-000?style=for-the-badge&logo=openai)
-![DataStax](https://img.shields.io/badge/-DataStax-000?style=for-the-badge&logo=datastax)
 
 #### CI/CD
 ![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
