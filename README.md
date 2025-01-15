@@ -71,7 +71,7 @@ I’m pursuing a Bachelor’s in Computer Science at IET DAVV, Indore 📍. With
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
 ![Render](https://img.shields.io/badge/-Render-000?style=for-the-badge&logo=render)
 
-#### GenAI Tools
+#### GenAI Agent Tools
 ![Langflow](https://img.shields.io/badge/-Langflow-000?style=for-the-badge&logo=openai)
 ![DataStax](https://img.shields.io/badge/-DataStax-000?style=for-the-badge&logo=datastax)
 
