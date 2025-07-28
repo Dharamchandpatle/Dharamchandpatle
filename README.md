@@ -17,7 +17,16 @@ I’m pursuing a Bachelor’s in Computer Science at IET DAVV, Indore 📍. With
 <p> </p>
 <ul>
 <li>
-<p>🔭 I’m currently working on <a href="https://admin.ietdavv.edu.in/">IET DAVV Admin Portal </a> for IET DAVV , Indore .</p>
+<p>
+  🔭 I’m currently working as a <strong>Frontend Developer</strong> on the 
+  <a href="https://admin.ietdavv.edu.in/" target="_blank" rel="noopener noreferrer">
+    IET DAVV Admin Portal
+  </a> for <strong>IET DAVV, Indore</strong>.
+  <br />
+  ✅ Previously completed internships at <strong>Connect Siksha</strong> and <strong>Zoro Innovation</strong>,
+  contributing to real-world web development projects.
+</p>
+
 </li>
 <li>
 <p>📚 I’m currently learning  : <b>JAVA &amp; DSA </b>.</p>
