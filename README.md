@@ -35,7 +35,7 @@ I’m pursuing a Bachelor’s in Computer Science at IET DAVV, Indore 📍. With
 <p>📫 How to reach me <strong>dharamchandpatle917@gmail.com</strong> </p>
 </li>
 <li>
-<p>💬 Ask me about <strong>MERN Stack , Java </strong></p>
+<p>💬 Ask me about <strong>MERN Stack , Java , SQL </strong></p>
 </li>
 <li>
 <p>👨‍💻 All of my projects are available at : <a href="https://dharamchandpatle-portfolio.vercel.app/ "> Dharamchand Patle 🚀</a></p>
