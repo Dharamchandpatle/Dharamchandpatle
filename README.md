@@ -29,7 +29,7 @@ I’m pursuing a Bachelor’s in Computer Science at IET DAVV, Indore 📍. With
 
 </li>
 <li>
-<p>📚 I’m currently learning  : <b>JAVA &amp; DSA </b>.</p>
+<p>📚 I’m currently learning  : <b>JAVA &amp; DSA &amp; SQL  </b>.</p>
 </li>
 <li>
 <p>📫 How to reach me <strong>dharamchandpatle917@gmail.com</strong> </p>
