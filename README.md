@@ -102,11 +102,7 @@ I’m pursuing a Bachelor’s in Computer Science at IET DAVV, Indore 📍. With
 ![Anaconda](https://img.shields.io/badge/-Anaconda-000?style=for-the-badge&logo=anaconda)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=arduino)
 ![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=postman)
-## 📊 GitHub Stats
 
-![Dharam's GitHub stats](https://github-readme-stats.vercel.app/api?username=dharamchandpatle&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dharamchandpatle&layout=compact&theme=tokyonight&hide_border=true)
 ### Thanks for Visiting my GitHub Profile!
 
 ---
