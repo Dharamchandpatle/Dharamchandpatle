@@ -23,8 +23,9 @@ I’m pursuing a Bachelor’s in Computer Science at IET DAVV, Indore 📍. With
     IET DAVV Admin Portal
   </a> for <strong>IET DAVV, Indore</strong>.
   <br />
-  ✅ Previously completed internships at <strong>Connect Siksha</strong> and <strong>Zoro Innovation</strong>,
-  contributing to real-world web development projects.
+  Successfully completed an internship at <strong>IOCL, Guwahati Refinery</strong>, where I worked on real-world industrial use cases and contributed to the development of <strong>RefineIQ</strong> — an AI-powered smart refinery platform.
+  <br />
+  Previously completed internships at <strong>Connect Siksha</strong> and <strong>Zoro Innovation</strong>, contributing to real-world web development projects.
 </p>
 
 </li>
